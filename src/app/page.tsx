@@ -111,7 +111,7 @@ export default function LandingPage() {
           tags: [
             "Regeneration",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-portrait-successful-confident-young-woman-start-career-look-determined-get-job-waiting-interview-lean-glass-wall-business-center-smiling-looking-away-satisfied_197531-30572.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-portrait-successful-confident-young-woman-start-career-look-determined-get-job-waiting-interview-lean-glass-wall-business-center-smiling-looking-away-satisfied_197531-30572.jpg?_wi=1",
         },
         {
           id: "exosomes",
@@ -119,7 +119,7 @@ export default function LandingPage() {
           tags: [
             "Innovation",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-portrait-woman-smiling-with-perfect-smile-white-teeth_273609-13703.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-portrait-woman-smiling-with-perfect-smile-white-teeth_273609-13703.jpg?_wi=1",
         },
         {
           id: "prp",
@@ -127,7 +127,7 @@ export default function LandingPage() {
           tags: [
             "Natural",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/lesbian-couple-wearing-white-their-wedding_23-2150835701.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/lesbian-couple-wearing-white-their-wedding_23-2150835701.jpg?_wi=1",
         },
         {
           id: "fillers",
@@ -135,7 +135,7 @@ export default function LandingPage() {
           tags: [
             "Contouring",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-beautiful-blonde-woman-wearing-white-shirt-standing-co-working-space-leaning-desk_74855-15151.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-beautiful-blonde-woman-wearing-white-shirt-standing-co-working-space-leaning-desk_74855-15151.jpg?_wi=1",
         },
         {
           id: "anti-wrinkle",
@@ -143,7 +143,7 @@ export default function LandingPage() {
           tags: [
             "Softening",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-afro-haircut-wearing-white-sweater_273609-21763.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-afro-haircut-wearing-white-sweater_273609-21763.jpg?_wi=1",
         },
         {
           id: "skin-rejuv",
@@ -180,7 +180,7 @@ export default function LandingPage() {
           role: "Patient",
           company: "Bristol",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-portrait-successful-confident-young-woman-start-career-look-determined-get-job-waiting-interview-lean-glass-wall-business-center-smiling-looking-away-satisfied_197531-30572.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-portrait-successful-confident-young-woman-start-career-look-determined-get-job-waiting-interview-lean-glass-wall-business-center-smiling-looking-away-satisfied_197531-30572.jpg?_wi=2",
         },
         {
           id: "2",
@@ -188,7 +188,7 @@ export default function LandingPage() {
           role: "Patient",
           company: "Clifton",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-portrait-woman-smiling-with-perfect-smile-white-teeth_273609-13703.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-portrait-woman-smiling-with-perfect-smile-white-teeth_273609-13703.jpg?_wi=2",
         },
         {
           id: "3",
@@ -196,7 +196,7 @@ export default function LandingPage() {
           role: "Patient",
           company: "Bristol",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/lesbian-couple-wearing-white-their-wedding_23-2150835701.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/lesbian-couple-wearing-white-their-wedding_23-2150835701.jpg?_wi=2",
         },
         {
           id: "4",
@@ -204,7 +204,7 @@ export default function LandingPage() {
           role: "Patient",
           company: "Clifton",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-beautiful-blonde-woman-wearing-white-shirt-standing-co-working-space-leaning-desk_74855-15151.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-beautiful-blonde-woman-wearing-white-shirt-standing-co-working-space-leaning-desk_74855-15151.jpg?_wi=2",
         },
         {
           id: "5",
@@ -212,7 +212,7 @@ export default function LandingPage() {
           role: "Patient",
           company: "Bristol",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-afro-haircut-wearing-white-sweater_273609-21763.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-with-afro-haircut-wearing-white-sweater_273609-21763.jpg?_wi=2",
         },
       ]}
       kpiItems={[
